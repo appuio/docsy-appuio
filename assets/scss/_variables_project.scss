@@ -3,12 +3,13 @@ $AP-Yellow: #FFD902;
 $AP-Cyan: #1DB1BF;
 $AP-Orange: #F3922B;
 $AP-Grey: #DDDDDD;
+$AP-Darkgrey: #5A5A5A;
 $AP-Lightblue: #D2ECFB;
 
 $primary: $AP-Blue !default;
 $secondary: $AP-Yellow !default;
-$info: $AP-Grey !default;
-$warning: $AP-Cyan !default;
+$info: $AP-Darkgrey !default;
+$warning: $AP-Orange !default;
 $danger: $AP-Orange !default;
 $light: lighten($primary, 75%) !default;
 
